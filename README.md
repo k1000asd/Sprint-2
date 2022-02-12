@@ -71,3 +71,39 @@ Descargas
 Intimidad
 
 De forma predeterminada, VS Code se actualiza automáticamente a nuevas versiones y recopila datos de uso e información de informes de fallas. 
+
+**GIT**
+
+Que es git
+
+Git es un sistema de control de versiones gratuito y de código abierto, creado originalmente por Linus Torvalds en 2005. A diferencia de los antiguos sistemas centralizados de control de versiones, como SVN y CVS, Git está distribuido: cada desarrollador tiene el historial completo de su repositorio de código de manera local. De este modo, la clonación inicial del repositorio es más lenta, pero las operaciones posteriores, como commit, blame, diff, merge y log son mucho más rápidas.
+Git incluye las funcionalidades de crear ramas y fusiones y reescribir historiales de repositorios, lo cual ha dado como resultado muchas herramientas y flujos de trabajo innovadores y eficaces. Las solicitudes de incorporación de cambios son una herramienta popular con la que los equipos pueden colaborar en las ramas de Git y revisar con eficacia el código de los demás. Git es el sistema de control de versiones más utilizado en el mundo hoy en día, y se considera el modelo actual de desarrollo de software.
+
+Instalacion de git
+Para instalar git en Windows, hay que descargar el instalador de a pagina web oficial “https://git-scm.com” 
+Darle siguiente a todos los pasos de instalación y  podrás tener git en tu sistema
+
+Una vez en la terminal debes hacer los siguientes comandos;
+Git config --global user.name “tun ombre”
+Git config –global user.email “tu email@email.com” 
+Con estos commando iniciarax sesión y podrás trabajar en tu repositorio en gi
+
+
+**GITHUB**
+
+Github es un portal creado para alojar el código de las aplicaciones de cualquier desarrollador, y que fue comprada por Microsoft en junio del 2018. La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación, sino también entrar a su perfil para leer sobre ella o colaborar con su desarrollo.
+
+Que ofrece Github
+Github permite que los desarrolladores alojen proyectos creando repositorios de forma gratuita. Pero hay que tener una cosa en mente, y es que para poder subir gratis los proyectos deberán ser de código abierto. Y no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
+
+Como te hemos mencionado más arriba, en Github también puedes entrar a los proyectos de los demás y colaborar para mejorarlos. Esto quiere decir que los usuarios pueden opinar, dejar sus comentarios sobre el código, colaborar y contribuir mejorando el código. También pueden reportar errores para que los desarrolladores lo mejoren.
+
+Github también ofrece una serie de herramientas propias con las que complementar las ventajas que ya tiene el sistema Git de por sí solo. Por ejemplo, puedes crear una Wiki para cada proyecto, de forma que puedas ofrecer toda la información sobre él y anotar todos los cambios de las diferentes versiones.
+
+
+
+Accceder a GitHub
+
+Ingresa a la página web, créate un usuario utilizando el mismo correo utilizado en la sesión de git, para coincidir el git y el github,
+
+Para crear un repostitorio, hay que seguir las instrucciones que se indican en la misma pagina web, para que así desde la termina bash de git, puedas controlar lo que se suba, lo que se baja.
